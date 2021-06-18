@@ -1,3 +1,5 @@
+クレジット表記: ©riv_mk ([CC 表示 4.0 国際](https://creativecommons.org/licenses/by/4.0/deed.ja))
+
 このファイルはクリエイティブ・コモンズ 表示 4.0 国際ライセンスのもとに利用を許諾されています。	  
 あなたは以下の条件に従う限り、自由に：  
 - 共有 — どのようなメディアやフォーマットでも資料を複製したり、再配布できます。
@@ -9,8 +11,13 @@
 あなたの従うべき条件は以下の通りです。  
 - 表示 — あなたは 適切なクレジットを表示し、ライセンスへのリンクを提供し、変更があったらその旨を示さなければなりません。これらは合理的であればどのような方法で行っても構いませんが、許諾者があなたやあなたの利用行為を支持していると示唆するような方法は除きます。
 
-追加的な制約は課せません — あなたは、このライセンスが他の者に許諾することを法的に制限するようないかなる法的規定も技術的手段 も適用してはなりません。  
-https://creativecommons.org/licenses/by/4.0/deed.ja
+追加的な制約は課せません — あなたは、このライセンスが他の者に許諾することを法的に制限するようないかなる法的規定も技術的手段も適用してはなりません。  
+https://creativecommons.org/licenses/by/4.0/deed.ja  
+<br>  
+
+
+Credits to be stated: ©riv_mk licensed under [CC-BY-4.0 International](
+https://creativecommons.org/licenses/by/4.0/)  
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
